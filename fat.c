@@ -32,4 +32,4 @@ int calc_fat(int b)
         printf(" %d",fatorial);
     }
     return fatorial;
-}
+}//Bimba
